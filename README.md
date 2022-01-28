@@ -21,7 +21,7 @@
   <hr>  
     <div align=center><h3> 💁🏻‍♀️ Github status </h3> </div>
     
-![deslog's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+![deslog's GitHub stats](https://github-readme-stats.vercel.app/api?username=deslog&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deslog&langs_count=10&layout=compact&theme=onedark)](https://github.com/deslog)
 
   
