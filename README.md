@@ -4,22 +4,11 @@
 <div align=center>
   
   <div align=center>
-    안녕하세요! iOS App 개발자를 꿈꾸는 <em>Jisoo(@deslog)</em> 라고 해요! <br>
-지금은 열심히 내앱내만 (내 앱은 내가 만든다!) 을 실천해보기 위해서 Swift 언어를 열심히 공부중입니다 :)  <br>
-    그리고 Apple Developer Academy 1기로 선발되어서 포스텍에서 공부하고, iOS개발자로 거듭나려고 합니다.<br>
-    저의 성장 지켜봐주세요! :) <br>
-       <br>
-  학부시절에는 다양한 인공지능 프로젝트와 데이터 관련 프로젝트를 진행했습니다! <br>
-    (AI관련 프로젝트를 보시고 싶으시면 아래에 Tech-Blog를 방문해주세요) <br>
-  그래서 미래에는 AI 기능을 탑재한 어플을 만드는 것이 최종 목표입니다. <br>
-    
-  <br>잘못된 부분, 코멘트 해주실 부분이 있으시면 언제든지 contact 해주세요! 성장하고 싶어요 😃 <br>
-   
+  <br> 💁 결과도 중요하지만, 과정 속에서의 성장을 더 중요하게 생각하는 개발자 JISOO 입니다. <br>
+  <br> ✍🏻 공유하고 기록하는 것을 좋아해요. 최대한 다양한 사람과 소통하고 싶어요! <br>
+  <br> 🍎 2022.03부터 Apple Developer Academy에서 공부하고 있어요. <br>
   <div align=center>
- 
-    
-    
-    
+
     
   <hr>  
     <div align=center><h3> 💁🏻‍♀️ Github status </h3> </div>
