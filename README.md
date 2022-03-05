@@ -3,11 +3,11 @@
 <div align=center><h1>👋 Hi, I'm Jisoo (@deslog) </h1></div>
 <div align=center>
   
-  <div align=center>
-  <br> 💁 결과도 중요하지만, 과정 속에서의 성장을 더 중요하게 생각하는 개발자 JISOO 입니다. <br>
-  <br> ✍🏻 공유하고 기록하는 것을 좋아해요. 최대한 다양한 사람과 소통하고 싶어요! <br>
-  <br> 🍎 2022.03부터 Apple Developer Academy에서 공부하고 있어요. <br>
-  <div align=center>
+
+  <br> 💁 결과도 중요하지만, 과정 속에서의 성장을 더 중요하게 생각하는 개발자 JISOO 입니다.
+  <br> ✍🏻 공유하고 기록하는 것을 좋아해요. 최대한 많은 다양한 사람과 소통하고 싶어요! 
+  <br> 🍎 2022년 3월부터 Apple Developer Academy에서 공부하고 있어요.
+
 
     
   <hr>  
