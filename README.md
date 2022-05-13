@@ -1,7 +1,6 @@
 
 
 <div align=center><h1>👋 Hi, I'm Jisoo (@deslog) </h1></div>
-<div align=center>
   
 
   <br> 💁 결과도 중요하지만, 과정 속에서의 성장을 더 중요하게 생각하는 개발자 JISOO 입니다.
