@@ -20,8 +20,11 @@
   
   <div align=center><h3> 👩🏻‍💻 skills </h3></div>
 <div align=center>
-  
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft SQL server&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+<a href="https://developer.apple.com/kr/swift/">
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
+  <a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  </a>
   
 ---
 
@@ -30,8 +33,10 @@
 <a href="https://didu-story.tistory.com/">
   <img
   src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://didu-story.tistory.com/"
-  style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> <a href="https://instagram.com/gguummee"> <img
-       src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/gguummee/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> <a href="mailto:dlwltn815@gmail.com"> <img
+  style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> 
+  <a href="https://instagram.com/gguummee"> <img
+       src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/gguummee/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> 
+  <a href="mailto:dlwltn815@gmail.com"> <img
   src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwltn815@gmail.com"
   style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
@@ -46,4 +51,6 @@
   
 <div align=center><h3> ✨ Please be my follower ✨ </h3></div>
 <div align=center>
+  <a href = "https://github.com/deslog?tab=followers">
   <img src="https://img.shields.io/github/followers/deslog?style=social">
+  </a>
