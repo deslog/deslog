@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   </a>
   
----
 
   <div align=center><h3> 📲 Contact </h3></div>
 <div align=center>
@@ -43,7 +42,6 @@
 </a>
 </div>
 
----
   
 <div align=center><h3> 👀 Thank you for visiting 🥳 </h3></div>
 <div align=center>
