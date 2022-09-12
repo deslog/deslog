@@ -13,10 +13,10 @@
 
 <h2>👩🏻‍🏫 Education </h2>
 
-| Title | Major | Study Contents | Education Period | Dev Skills |
-|:---:|:---:|:---:|:---:|:---:|
+| Title | Major | Study Contents | Education Period |
+|:---:|:---:|:---:|:---:|
 | Apple Developer Academy @ POSTECH | iOS development | App Dev, 기획, Design | 2022.03-2022.12 |
-| Dongguk University (Seoul Campus) | Industrial System Engineering | AI, Data | 2016.03-2021.08 |  |
+| Dongguk University (Seoul Campus) | Industrial System Engineering | AI, Data | 2016.03-2021.08 |
   
 <br>
 
