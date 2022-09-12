@@ -1,35 +1,38 @@
 
 
-<div align=center><h1>👋 Hi, I'm Jisoo (@deslog) </h1></div>
+<h2>👋 HI! I'm Jisoo </h2>
   
-
-  <br> 💁 결과도 중요하지만, 과정 속에서의 성장을 더 중요하게 생각하는 개발자 JISOO 입니다.
+💁 결과도 중요하지만, 과정 속에서의 성장을 더 중요하게 생각하는 iOS 개발자 JISOO 입니다.
   <br> ✍🏻 공유하고 기록하는 것을 좋아해요. 최대한 많은 다양한 사람과 소통하고 싶어요! 
   <br> 🍎 Apple Developer Academy @ POSTECH 에서 공부하고 있어요.
 
+<h4>💻 Main skill : 
+<a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> </h4>
 
-    
-  <hr>
-    <div align=center><h3> 💁🏻‍♀️ Github status </h3> </div>
-<table><tr><td valign="top" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=deslog&show_icons=true&theme=onedark" align="left" style="width: 100%" />
-  </td><td valign="top" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deslog&langs_count=10&layout=compact&theme=onedark)](https://github.com/deslog" align="left" style="width: 100%" />
-</td></tr></table>
-  
-***
-  
-  <div align=center><h3> 👩🏻‍💻 skills </h3></div>
-<div align=center>
-<a href="https://developer.apple.com/kr/swift/">
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
-  <a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  </a>
-  
+<br>
 
-  <div align=center><h3> 📲 Contact </h3></div>
-<div align=center>
+<h2>👩🏻‍🏫 Education </h2>
+
+| Title | Major | Study Contents | Education Period | Dev Skills |
+|:---:|:---:|:---:|:---:|:---:|
+| Apple Developer Academy @ POSTECH | iOS development | App Dev, 기획, Design | 2022.03-2022.12 |
+| Dongguk University (Seoul Campus) | Industrial System Engineering | AI, Data | 2016.03-2021.08 |  |
+  
+<br>
+
+
+<h2>🏢 Experience </h2>
+
+| Position | Company | Content | Skills | Employment Period |
+|:---:|:---:|:---:|:---:|:---:|
+|Intern| BC card | FinTech 기획 개발 | 문서화, PT, Soft skills, Communication | 2021.11-2021.12 (2개월) |
+|Intern| Summerce Platform| DBA, Data Scientist | <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <a href="https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/MS SQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>| 2020.07-2020.12 (6개월) |
+|Researcher| (주)현대메디 | DBA, Data Scientist | <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> | 2019.03-2020,06 (1년 3개월) |
+
+
+<br>
+
+<h2> 📲 Contact : 
 <a href="https://didu-story.tistory.com/">
   <img
   src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://didu-story.tistory.com/"
@@ -40,18 +43,11 @@
   src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwltn815@gmail.com"
   style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-</div>
+</h2>
 
-  
-<div align=center><h3> 👀 Thank you for visiting 🥳 </h3></div>
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeslog&count_bg=%237586C8&title_bg=%23F5A915&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/deslog)
-  
-  
-  
-<div align=center><h3> ✨ Please be my follower ✨ </h3></div>
-<div align=center>
-  <a href = "https://github.com/deslog?tab=followers">
-  <img src="https://img.shields.io/github/followers/deslog?style=social">
-  </a>
+<h2> 😺 Git Status </h2>
+<table><tr><td valign="top" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=deslog&show_icons=true&theme=onedark" align="left" style="width: 100%" />
+  </td><td valign="top" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deslog&langs_count=10&layout=compact&theme=onedark)](https://github.com/deslog" align="left" style="width: 100%" />
+</td></tr></table>
