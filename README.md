@@ -27,7 +27,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |Intern| BC card | FinTech 기획 개발 | 문서화, PT, Soft skills, Communication | 2021.11-2021.12 (2개월) |
 |Intern| Summerce Platform| DBA, Data Scientist | <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <a href="https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/MS SQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>| 2020.07-2020.12 (6개월) |
-|Researcher| (주)현대메디 | DBA, Data Scientist | <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> | 2019.03-2020,06 (1년 3개월) |
+|(근로/학부연구원)<br>Researcher| (주)현대메디 | DBA, Data Scientist | <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> | 2019.03-2020,06 (1년 3개월) |
 
 
 <br>
