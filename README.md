@@ -1,6 +1,6 @@
 <h2>👋 HI! I'm Jisoo </h2>
   
-💁 어떻게 해야하는지 HOW에 대해서 고민하는 개발자, iOS 개발자 JISOO 입니다.
+💁 어떻게 해야하는지 HOW에 대해서 고민하는 iOS 개발자 JISOO 입니다.
   <br> ✍🏻 공유하고 기록하는 것을 좋아해요. 최대한 많은 다양한 사람과 소통하고 싶어요! 
   <br> 🍎 Apple Developer Academy @ POSTECH 에서 공부하고 있어요.
 
@@ -11,9 +11,10 @@
 
 <h2>👩🏻‍🏫 Education </h2>
 
+```지금은 Apple Developer Academy @ POSTECH``` 에서 공부하고 있어요
 | Title | Major | Study Contents | Education Period |
 |:---:|:---:|:---:|:---:|
-| Apple Developer Academy @ POSTECH | iOS development | App Dev, 기획, Design | 2022.03-2022.12 |
+| Apple Developer Academy @ POSTECH | iOS development | <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> <br> App Dev, 기획, Design | 2022.03-2022.12 |
 | Dongguk University (Seoul Campus) | Industrial System Engineering | AI, Data | 2016.03-2021.08 |
   
 <br>
