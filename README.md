@@ -1,3 +1,7 @@
+![메인 프로필 배너](https://user-images.githubusercontent.com/96969693/208286265-fc4849a9-39a6-4bdb-938d-8b0536d43940.png)
+
+
+
 <h2>👋 HI! I'm Jisoo </h2>
   
 💁 어떻게 해야하는지 HOW에 대해서 고민하는 iOS 개발자 JISOO 입니다. 문제를 찾아 헤매는 것을 좋아해요!! 어떻게 해결하지??!?!? 🤔
@@ -9,9 +13,23 @@
 
 <br>
 
+  <h2> 🔖 이런것을 만들면서 공부했어요!</h2>
+  
+  `Apple Developer Academy @ POSTECH`에서 소중한 경험을 통해 iOS 개발자로 성장하고 있어요.
+  그 소중한 경험을 소개합니다!
+  
+| Title | Github | Notion | Title | Github | Notion |
+|--|--|--|--|--|--|
+|<img width="300" alt="image" src="https://user-images.githubusercontent.com/96969693/208286464-24de4ae8-81d3-4e7d-ab16-2186a75ebc37.png">|<p align='center'>[🌎](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-EarthValley80)|<p align='center'>[🔖](https://icy-sage-f44.notion.site/fbe9a85091e84bf4999366a27884e54a)|<img width="300" alt="image" src="https://user-images.githubusercontent.com/96969693/208286502-1abbc36f-1370-49fd-a94d-4e37761dc1f9.png">|<p align='center'>[🍋](https://github.com/JamongSoda/IntoHistory/tree/develop)|<p align='center'>[🔖](https://abrupt-heart-fa2.notion.site/d44122cc7d3643d2950c42e41b19737f)|
+|<img width="300" alt="image" src="https://user-images.githubusercontent.com/96969693/208286725-198c96e4-3bec-4fdd-943a-f82fa606a140.png">|<p align='center'>[🐼](https://almond-blob-7af.notion.site/978d2272d6904f9585c381300eb9fe3e)|<p align='center'>[🔖](https://github.com/DeveloperAcademy-POSTECH/Gominsee)|<img width="300" alt="image" src="https://user-images.githubusercontent.com/96969693/208286664-602750f2-4b70-4901-95aa-16d3b91ba588.png">|<p align='center'>[🚘](https://github.com/developerAcademy-POSTECH/chagokchagok)| <p align='center'>[🔖](https://nifty-manx-a51.notion.site/Mini-Challenge-2-52a1fe9608c44d28a5d1d4cad6300d50)|
+|<img width="300" alt="image" src="https://user-images.githubusercontent.com/96969693/208286788-da947a8c-ce73-4d0d-9c68-862dc491a76f.png">|<p align='center'>[👾](https://github.com/DeveloperAcademy-POSTECH/MC3-Team7-MoTe)|<p align='center'>[🔖](https://silver-saturnalia-c1b.notion.site/0c90b0717a4b4c50a9c8b345bf02224a)| 현재는 요모조모 앱 출시를 목표로 공부중입니다. |
+  
+<p align='center'>
+</br>
+  
+
 <h2>👩🏻‍🏫 Education </h2>
 
-```지금은 Apple Developer Academy @ POSTECH``` 에서 공부하고 있어요
 | Title | Major | Study Contents | Education Period |
 |:---:|:---:|:---:|:---:|
 | Apple Developer Academy @ POSTECH | iOS development | <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> <br> App Dev, 기획, Design | 2022.03-2022.12 |
