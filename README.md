@@ -6,7 +6,7 @@
   
 💁 어떻게 해야하는지 HOW에 대해서 고민하는 개발자 JISOO 입니다. 문제를 찾아 헤매는 것을 좋아해요!! 어떻게 해결하지??!?!? 🤔
   <br> ✍🏻 공유하고 기록하는 것을 좋아해요. 최대한 많은 다양한 사람과 소통하고 싶어요! 
-  <br> 🍎 Apple Developer Academy @ POSTECH 에서 공부
+  <br> 🍎 Apple Developer Academy @ POSTECH 에서 공부했어요
 
 <h4>💻 Main skill : 
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> <a href="https://www.mysql.com/"> </h4>
