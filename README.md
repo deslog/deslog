@@ -9,11 +9,10 @@
   <br> 🍎 Apple Developer Academy @ POSTECH 에서 공부했어요
 
 <h4>💻 Main skill : 
-<a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> <a href="https://www.mysql.com/"> </h4>
-
+<a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> <a href="https://www.mysql.com/"><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> </h4>
 <br>
 
-  <h2> 🔖 이런것을 만들면서 공부했어요!</h2>
+<!--   <h2> 🔖 이런것을 만들면서 공부했어요!</h2>
   
   `Apple Developer Academy @ POSTECH`에서 소중한 경험을 통해 iOS 개발자로 성장하고 있어요.
   그 소중한 경험을 소개합니다!
@@ -25,7 +24,7 @@
 |<img width="300" alt="image" src="https://user-images.githubusercontent.com/96969693/208286788-da947a8c-ce73-4d0d-9c68-862dc491a76f.png">|<p align='center'>[👾](https://github.com/DeveloperAcademy-POSTECH/MC3-Team7-MoTe)|<p align='center'>[🔖](https://silver-saturnalia-c1b.notion.site/0c90b0717a4b4c50a9c8b345bf02224a)| (동국대학교 주변 식당/학식 관련 개인앱 개발중) 💬 |
   
 <p align='center'>
-</br>
+</br> -->
   
 
 <h2>👩🏻‍🏫 Education </h2>
